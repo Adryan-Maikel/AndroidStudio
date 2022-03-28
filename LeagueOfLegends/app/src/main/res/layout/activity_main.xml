@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_grey"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="-60dp"
+        app:srcCompat="@drawable/logo" />
+
+    <EditText
+        android:id="@+id/edtEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="12"
+        android:gravity="center"
+        android:hint="@string/edit_email"
+        android:minHeight="52sp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/yellow"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/edtPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="12"
+        android:gravity="center"
+        android:hint="@string/edit_password"
+        android:inputType="numberPassword"
+        android:minHeight="52sp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/yellow"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnEnter"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:text="@string/button_enter"
+        android:textColor="@color/dark_grey"
+        android:textColorHint="@color/yellow"
+        android:textSize="18sp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/btnRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:ems="6"
+        android:gravity="center_horizontal"
+        android:text="@string/button_register"
+        android:textColor="@color/yellow"
+        android:textSize="20sp" />
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LeagueOfLegends</string>
+    <string name="edit_email">Email</string>
+    <string name="edit_password">Password</string>
+    <string name="button_enter">Enter</string>
+    <string name="button_register">Register</string>
+    <string name="button_exit">Exit</string>
+    <string name="name_blitzcrank">Blitzcrank</string>
+    <string name="tittle_blitz">THE GREAT STEAM GOLEM</string>
+    <string name="text_blitz">Abehemoth of burnished metal, steam, and crackling electricity, Blitzcrank walks the streets of Zaun in a tireless effort to improve the undercity and give aid to those in need. Created to descend into the most caustic and dangerous of environments in Zaun to dispose of harmful waste, they have evolved beyond the bounds of their original programming, thanks to the genius of their inventor, and the mysterious power of hextech.</string>
+    <string name="name_darius">Darius</string>
+    <string name="name_jhin">Jhin</string>
+    <string name="name_ezreal">Ezreal</string>
+    <string name="name_masteryi">Master Yi</string>
+    <string name="name_sona">Sona</string>
+    <string name="name_vayne">Vayne</string>
+    <string name="name_viktor">Viktor</string>
+    <string name="name_xerath">Xerath</string>
+    <string name="name_xinzhao">Xin Zhao</string>
+    <string name="name_ziggs">Ziggs</string>
+    <string name="name_zyra">Zyra</string>
+
+</resources>

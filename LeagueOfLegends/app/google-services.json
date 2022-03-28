@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895145202033",
+    "project_id": "leagueoflegends-40af7",
+    "storage_bucket": "leagueoflegends-40af7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895145202033:android:9d2d5529ce58e6294b26d0",
+        "android_client_info": {
+          "package_name": "com.characters.leagueoflegends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895145202033-piglvst4rdlcq8qe8j8rs1fqf0m2vgt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXlFrLyB2LKVXeKLR6GAAOnGbtKzmZDHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895145202033-piglvst4rdlcq8qe8j8rs1fqf0m2vgt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
